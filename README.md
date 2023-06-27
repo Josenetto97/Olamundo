@@ -1,2 +1,4 @@
-# Olamundo
- primeiro rep. version
+# Olá, mundo!
+ Primeiro repositório.
+
+ Aprendendo a usar o GIT!
